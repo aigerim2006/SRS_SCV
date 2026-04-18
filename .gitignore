@@ -1,0 +1,14 @@
+# Сборка и временные файлы
+[Bb]in/
+[Oo]bj/
+[Тт]emp/
+
+# Пользовательские настройки Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Логи и кэш
+*.log
