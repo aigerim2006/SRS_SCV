@@ -12,3 +12,11 @@
 
 # Логи и кэш
 *.log
+
+# Временные файлы Microsoft Access
+*.laccdb
+*.ldb
+
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
